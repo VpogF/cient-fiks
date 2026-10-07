@@ -12,7 +12,7 @@ Se juega desde el ordenador con las flechas del teclado: hay que recoger la basu
 
 Nota: esta demo está publicada en GitHub Pages, que solo sirve archivos estáticos. Por eso el juego funciona, pero el login, el registro y el ranking no: necesitan un servidor con PHP y MySQL. Al terminar la partida, la puntuación no se guarda en el ranking.
 
-👩‍💻 Mi aporte (Virginia)
+👩‍💻 Mi aporte 
 
 Login
 
